@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/JessiVelazquez/vue-basics-01#readme",
   "dependencies": {
+    "bootstrap": "^5.1.0",
+    "bootstrap-vue": "^2.21.2",
     "vue": "^3.2.2"
   },
   "devDependencies": {
