@@ -1,7 +1,7 @@
 {
   "name": "vue-basics-01",
   "version": "1.0.0",
-  "description": "",
+  "description": "Udemy course by Max Schwarz.",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
